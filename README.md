@@ -43,10 +43,10 @@ The objective is to:
 
 ## 📊 Dashboard
 ### Executive Overview
-![Overview](dashboard/action_list_page.png)
+![Overview](dashboard/overview_page.png)
 
 ### High-Risk Customer Action List
-![Action List](dashboard/overview_page.png)
+![Action List](dashboard/action_list_page.png)
 
 ---
 
