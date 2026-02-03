@@ -46,7 +46,7 @@ The objective is to:
 ![Overview](customer-churn-prediction/dashboard/overview_page.png)
 
 ### High-Risk Customer Action List
-![Action List](dashboard/powerbi_screenshots/action_list_page.png)
+![Action List](customer-churn-prediction/dashboard/action_list_page.png)
 
 ---
 
