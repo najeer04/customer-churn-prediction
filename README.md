@@ -43,7 +43,7 @@ The objective is to:
 
 ## 📊 Dashboard
 ### Executive Overview
-![Overview](customer-churn-prediction/dashboard/overview_page.png)
+![Overview](dashboard/action_list_page.png)
 
 ### High-Risk Customer Action List
 ![Action List](customer-churn-prediction/dashboard/action_list_page.png)
