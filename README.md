@@ -46,7 +46,7 @@ The objective is to:
 ![Overview](dashboard/action_list_page.png)
 
 ### High-Risk Customer Action List
-![Action List](customer-churn-prediction/dashboard/action_list_page.png)
+![Action List](dashboard/overview_page.png)
 
 ---
 
