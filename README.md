@@ -43,7 +43,7 @@ The objective is to:
 
 ## 📊 Dashboard
 ### Executive Overview
-![Overview](dashboard/powerbi_screenshots/overview_page.png)
+![Overview](customer-churn-prediction/dashboard/overview_page.png)
 
 ### High-Risk Customer Action List
 ![Action List](dashboard/powerbi_screenshots/action_list_page.png)
